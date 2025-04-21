@@ -9,7 +9,7 @@ Git
 Setup Instructions
 
 Clone the Repository
-git clone https://github.com/mayor167/podcast-api
+git clone https://github.com/mayor167/podcast_api
 cd podcast_api
 
 
